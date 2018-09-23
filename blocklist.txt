@@ -1,7 +1,5 @@
 
-
-{blockedkeywords] # BLOCK traffic by keywords
-
+[blockedkeywords] # BLOCK traffic by keywords
 financial
 money
 paypal
@@ -138,8 +136,7 @@ rothschildandco.com
 smc.fr
 
 
-
-{blockedports] # BLOCK possible spam / unallowed ports
+[blockedports] # BLOCK possible spam / unallowed ports
 25
 2525
 465
@@ -148,8 +145,7 @@ smc.fr
 3306
 3389
 
-{blockedips} # BLOCK access to restricted IP addresses and subnets
-
+[blockedips] # BLOCK access to restricted IP addresses and subnets
 64.4.240.0/24
 64.4.240.0/21
 43.230.182.0/24
